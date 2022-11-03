@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://pbs.twimg.com/media/D7_JskkXUAI7cJJ?format=jpg&name=large);
+    background-size: 1950px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.titulo-1{
+    color: rgb(230, 14, 14);
+    font-size: 50px;
+    font-style: italic;
+    font-variant-position: inherit;
+}
+.button{
+    background-color: rgb(93, 233, 233);
+    font-size: 25px;
+    font-weight: 1000;
+    font-family:'Courier New', Courier, monospace;
+}
+.body-new{
+    background-image: url(https://i.pinimg.com/originals/12/8e/25/128e25a710d2ca01a5504c306aba6ec6.jpg);
+    background-size: 1992px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.button-2{
+    background-color: gold;
+    font-size: 25px;
+    font-weight: 1000;
+    border-radius: 50px;
+    border-top: 25px;
+}
+thead{
+    background-color: rgb(8, 71, 71);
+color: aquamarine;
+font-size: 25px;
+}
+td{
+    color: brown;
+    font-size: 25px;
+}
+table{
+    border-color: rgb(36, 15, 228);
+    border-radius: 20px;
+    siz
+}
